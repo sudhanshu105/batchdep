@@ -1,0 +1,14 @@
+.class1{
+    left:0;
+    z-index: 100;
+}
+
+.class2{
+    left:10;
+    z-index: 90;
+}
+
+.class3{
+    left:20;
+    z-index: 80;
+}
